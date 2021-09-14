@@ -3,7 +3,7 @@
 
 I'm a teacher working in João Pessoa, Brazil
 
-Here are some ideas to get you started:
+**BIO**
 
 - 🔭 I’m currently working at [IFPB](https://www.ifpb.edu.br/)
 - ⚙️ I use daily: `.cpp`, `.ipynb`, `py` and sometimes `.js`, `html, `css` and `.m` 
